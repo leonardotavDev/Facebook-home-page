@@ -11,7 +11,7 @@
         <p style="line-height: 1.6;">
             To style the page, I used TailwindCSS. This CSS framework allows styles to be applied quickly and efficiently using utility classes. With TailwindCSS, I was able to create a modern, responsive layout with little need for custom CSS. The use of classes such as <code>flex</code>, <code>bg-blue-500</code>, <code>text-white</code>, and <code>rounded</code> helped create an attractive and functional interface. The design is simplified and focused on usability, while maintaining the visual essence of the Facebook login page.
         </p>
-        <h2 style="color: #555;">Ajuda do DevClub:</h2>
+        <h2 style="color: #555;">DevClub help:</h2>
         <p style="line-height: 1.6;">
             To ensure that the project was implemented correctly, I used the DevClub video as a reference. The video provided practical guidance on how to structure and style the page, detailing the steps needed to achieve a Facebook-like result. This help was crucial in understanding how to apply TailwindCSS effectively and create a login page that resembles the real design.
         </p>
